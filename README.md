@@ -61,6 +61,12 @@ Bem-vindo à API de Cadastro! Esta API permite gerenciar cadastros com operaçõ
 6. Acesse a documentação interativa da API em http://127.0.0.1:8000/docs.
 
 
-
+## 💡 Swagger do projeto
 
 ![Descrição do GIF](zoox_api.gif)
+
+
+## 🐘🎲 Banco com os dados cadastrados
+![image](https://github.com/paty-O-coelho/zoox/assets/43469465/560e2357-9174-476b-8349-b0c8ee43fe31)
+
+
