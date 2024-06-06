@@ -1,0 +1,1 @@
+from models.cadastro_model import CadastroModel # noqa
