@@ -46,13 +46,18 @@ Bem-vindo à API de Cadastro! Esta API permite gerenciar cadastros com operaçõ
 1. Clone o repositório:
    ```sh
    git clone https://github.com/paty-O-coelho/zoox.git
+2. Navegue até o diretório do projeto:
    ```sh
    cd zoox
+3. Instale as dependências:
    ```sh
    pip install -r requirements.txt
-  ```python
+4. Crie as tabelas:
+   ```sh
    python criar_tabelas.py
-   
-  ```sh
-  python main.py
+5. Execute a aplicação:
+   ```sh
+   python main.py
+6. Acesse a documentação interativa da API em http://127.0.0.1:8000/docs.
+
   
