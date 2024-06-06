@@ -60,4 +60,7 @@ Bem-vindo à API de Cadastro! Esta API permite gerenciar cadastros com operaçõ
    python main.py
 6. Acesse a documentação interativa da API em http://127.0.0.1:8000/docs.
 
-  
+
+
+
+![Descrição do GIF](zoox_api.gif)
